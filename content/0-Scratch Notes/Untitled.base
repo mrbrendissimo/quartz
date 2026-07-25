@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: View
+    limit: 14
+    cardSize: 230
+    image: file.file
+    imageFit: ""
+    imageAspectRatio: 0.65

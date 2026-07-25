@@ -1,0 +1,1 @@
+[Artus](https://5e.tools/bestiary/artus-cimber-toa.html)
