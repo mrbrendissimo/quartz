@@ -12,6 +12,9 @@ configuration:
     - private
     - templates
     - .obsidian
+    - 3-Mechanics/CLI
+    - z_Assets/z_PDFS
+    - "z_Assets/!From Template"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
